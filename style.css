@@ -1,0 +1,10 @@
+body {font-family: Arial, sans-serif; background-color: #f7f6f2; color: #333; margin: 0; padding: 0;} 
+header {background-color: #6a9fb5; color: white; text-align: center; padding: 2rem;} 
+header h1 {margin: 0; font-size: 2.5rem;} 
+header p {font-size: 1.2rem;} 
+main {padding: 2rem; max-width: 800px; margin: auto;} 
+section {margin-bottom: 2rem;} 
+h2 {color: #3a5f7d;} 
+button {background-color: #6a9fb5; color: white; padding: 0.7rem 1.5rem; border: none; border-radius: 5px; cursor: pointer;} 
+button:hover {background-color: #55819e;} 
+footer {text-align: center; padding: 1.5rem; background-color: #dfe6e9;} 
