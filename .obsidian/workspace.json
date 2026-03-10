@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teste-vault.md",
+                "file": "00-Dashboard/🧠 Mapa do Reino.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "teste-vault"
+              "title": "🧠 Mapa do Reino"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teste-vault.md",
+                "file": "00-Dashboard/🧠 Mapa do Reino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para teste-vault"
+              "title": "Links inversos para 🧠 Mapa do Reino"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teste-vault.md",
+                "file": "00-Dashboard/🧠 Mapa do Reino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para teste-vault"
+              "title": "Links de saída para 🧠 Mapa do Reino"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teste-vault.md",
+                "file": "00-Dashboard/🧠 Mapa do Reino.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de teste-vault"
+              "title": "Sumário de 🧠 Mapa do Reino"
             }
           }
         ]
@@ -185,9 +185,11 @@
   },
   "active": "a02ebf7cf1f0f405",
   "lastOpenFiles": [
+    "teste-vault.md",
+    "00-Dashboard/🧠 Mapa do Reino.md",
+    "00-Dashboard",
     "git",
     "cd",
-    "teste-vault.md",
     "vault/Portal-da-Graca/Album/identidade-album.md",
     "vault/Portal-da-Graca/Album/00_BACKLOG.md",
     "vault/Portal-da-Graca/Album/letras/02-abba-me-chamou-filho.md",
