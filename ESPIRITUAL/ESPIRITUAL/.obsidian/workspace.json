@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "639ccb422e6a752a",
+    "type": "split",
+    "children": [
+      {
+        "id": "263e8dedc368383b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc5c124836787fae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bem-vindo-Estrutura Espiritual Em Nome De Jesus Cristo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bem-vindo-Estrutura Espiritual Em Nome De Jesus Cristo"
+            }
+          },
+          {
+            "id": "ca82f65c4bab8f0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Início-Jornada-Espiritual.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Início-Jornada-Espiritual"
+            }
+          },
+          {
+            "id": "184d9bc1b14aff16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livros da Bíblia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Livros da Bíblia"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f255ff516552233",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c65c5e4171c18a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88a89ec43edadb88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "9a561023050f3a84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "115c030a44135147",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b2c9db46a7f5fea",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9e9aebddc840382",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f60152cfec4464d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Livros da Bíblia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Livros da Bíblia"
+            }
+          },
+          {
+            "id": "a0d4518dd3740356",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Livros da Bíblia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Livros da Bíblia"
+            }
+          },
+          {
+            "id": "8eedb85fb9ca6aa8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4ba745c8376bf2a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Livros da Bíblia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Livros da Bíblia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "184d9bc1b14aff16",
+  "lastOpenFiles": [
+    "Bem-vindo-Estrutura Espiritual Em Nome De Jesus Cristo.md",
+    "Início-Jornada-Espiritual.md",
+    "Livros da Bíblia.md",
+    "Projetos pessoais 1",
+    "ESPIRITUAL"
+  ]
+}

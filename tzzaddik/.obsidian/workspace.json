@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "742f881a067a318b",
+    "type": "split",
+    "children": [
+      {
+        "id": "16af86db9fe23b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06710863360e12b6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b9b160c8a854b47",
+    "type": "split",
+    "children": [
+      {
+        "id": "c18467558685f2c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02bb724e3045e2da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "0c012e00903f5f51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "7c3feeec51da3441",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "834daaf35d5fa8aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "43e7eb5e59a7f1cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4d64264f02a9321",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🧩 MODELO 1 — Zettelkasten no Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 🧩 MODELO 1 — Zettelkasten no Obsidian"
+            }
+          },
+          {
+            "id": "85cfd1e7e4ea7dc9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🧩 MODELO 1 — Zettelkasten no Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 🧩 MODELO 1 — Zettelkasten no Obsidian"
+            }
+          },
+          {
+            "id": "18e9b6867558a294",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "6dbbda3f48e03080",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🧩 MODELO 1 — Zettelkasten no Obsidian.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 🧩 MODELO 1 — Zettelkasten no Obsidian"
+            }
+          },
+          {
+            "id": "dcd941d9e21747c0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "0ce7e3d492c95053",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Notas de rodapé"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false
+    }
+  },
+  "active": "06710863360e12b6",
+  "lastOpenFiles": [
+    "2026-03-09.md",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/Sem título",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/Sem título.base",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/Open folder as vault.md",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/Sem título 1",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/Sem título.md",
+    "2026-03-08.md",
+    "🧩 MODELO 1 — Zettelkasten no Obsidian.md",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/GROP-DOCUMENTAÇÃO.md",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/GROP-PG",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/04 - Projetos",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/03 - Índices (MOCs)",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/04 - Projetos.md",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/02 - Notas Permanentes",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/03 - Índices (MOCs)04 - Projetos.md",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/01 - Literatura",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/02 - Notas Permanentes03 - Índices (MOCs)04 - Projetos.md",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/00 - Inbox.base",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/01 - Literatura02 - Notas Permanentes03 - Índices (MOCs)04 - Projetos.md",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/00 - Inbox01 - Literatura02 - Notas Permanentes03 - Índices (MOCs)04 - Projetos.md",
+    "_Index_of_tzzaddik.md",
+    "Arquitetura em M.md",
+    "Sem título.md",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/N8N.md",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/AUTOMAÇÕES E APIS GRATIS.md",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/crie um link.md",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS/Bem-vindo.md",
+    "03-Recursos (R) → Laboratório de Curiosidade/AUTOMAÇÕES-N8N-APIS",
+    "2026-03-07.md",
+    "Zettelkasten no Obsidian.md",
+    "TUTORIAL GITHUB/ATIVANDO A PG DE PUBLICAÇÃO.md",
+    "00 - Inbox/01-Projetos (P) → Pilar de Crescimento/Inbox Financeiro/Bloco. Sem ruído, apenas o fato..md",
+    "Nota Recurso X.md",
+    "00 - Inbox/01-Projetos (P) → Pilar de Crescimento/01 - Literatura/METODO M + CODE +PARA/Drawing 2026-03-04 11.18.17.excalidraw.md",
+    "00 - Inbox/01-Projetos (P) → Pilar de Crescimento/Inbox Financeiro/_Index_of_Inbox Financeiro.md",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "00 - Inbox/01-Projetos (P) → Pilar de Crescimento/EFERTAS.canvas"
+  ]
+}
